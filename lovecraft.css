@@ -1,0 +1,43 @@
+h1{
+            font-family: 'Playfair Display', serif;
+            font-size: 3em;
+        }
+        h2{
+            font-family: 'Playfair Display', serif;
+            color: red
+        }
+        main {
+            width: 60%;
+            margin: 0 auto;
+        }
+        main{
+            font-family: 'Merriweather', serif;
+        }
+        span{
+            font-family: 'Lobster', cursive;
+        }
+        div.a{
+            text-align: right;
+        }
+        img{
+            float: right;
+            width:450px;
+            height:300px;
+            border:2px solid;
+            margin:10px;
+        }
+        body{
+            background-color: black;
+                color: white;
+        }
+        h3,h4{
+            font-size: 3em;
+            color: red;
+        }
+        img2{
+            float: right;
+            width:450px;
+            height:300px;
+            border:2px solid;
+            margin:10px;
+        }
